@@ -19,6 +19,7 @@ Try It Out
 Live Demo (link to be inserted)
 
 Contributors
-Your Name (link to your profile)
+Your Name (aloice ogana 
+)
 Acknowledgments
-Inspired by exercism.io's Roman Numeral Converter challenge.
+Inspired by aloice ogana 
