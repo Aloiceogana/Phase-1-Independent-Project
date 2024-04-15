@@ -1,3 +1,6 @@
+//  https://aloiceogana.github.io/Phase-1-Independent-Project/ 
+
+use the above link to visit the site 
 
 Roman Numeral Converter
 Overview
@@ -17,10 +20,10 @@ JavaScript
 HTML
 CSS
 Try It Out
-Live Demo (link to be inserted)
+Live Demo ( https://aloiceogana.github.io/Phase-1-Independent-Project/)
 
 Contributors
-Your Name (aloice ogana 
+(aloice ogana 
 )
 Acknowledgments
 Inspired by aloice ogana 
