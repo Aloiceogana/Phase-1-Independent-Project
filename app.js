@@ -26,3 +26,30 @@ button.addEventListener("click", () => {
   inputToRoman(input.value);
   input.value = "";
 });
+
+function inputToRoman(num) {
+  let number = parseInt(num);
+
+  if (num.trim().length == 0) {
+    errorMessage.innerHTML = "Invalid Input";
+    output.innerHTML = "";
+    return false;
+  }
+  if (number > 4999 || number < 1) {
+    errorMessage.innerHTML = "Input Out Of Range";
+    output.innerHTML = "";
+    return false;
+  }
+  errorMessage.innerHTML = "";
+  output.innerHTML = "";
+
+  let result = "";
+  let romanValues = Object.keys(romanObject);
+  romanValues.forEach((key) => {
+    while (romanObject[key] <= number) {
+      number -= romanObject[key];
+      result += key;
+    }
+  });
+  output.innerHTML = result;
+}
