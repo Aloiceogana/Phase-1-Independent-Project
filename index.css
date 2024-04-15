@@ -5,7 +5,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background-color: #170130;
+  background-color: #460137;
 }
 .container {
   background-color: #462be0;
@@ -32,7 +32,7 @@ input:focus {
 }
 button {
   border: none;
-  background-color: #b65c08;
+  background-color: #460137;
   color: #ffffff;
 }
 input,
