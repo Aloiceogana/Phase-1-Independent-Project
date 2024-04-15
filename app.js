@@ -21,3 +21,8 @@ const romanObject = {
   IV: 4,
   I: 1,
 };
+
+button.addEventListener("click", () => {
+  inputToRoman(input.value);
+  input.value = "";
+});
