@@ -29,11 +29,11 @@ The corresponding Roman numeral will be displayed below the input field.
 # installation instruction
 git clone git@github.com:Aloiceogana/Phase-1-Independent-Project.git
 # Technologies Used
-JavaScript
-HTML
-CSS
-Try It Out
-Live Demo ( https://aloiceogana.github.io/Phase-1-Independent-Project/)
+1.JavaScript
+2.HTML
+3.CSS
+4.Try It Out
+5.Live Demo ( https://aloiceogana.github.io/Phase-1-Independent-Project/)
 
 # Contributors
 (aloice ogana 
