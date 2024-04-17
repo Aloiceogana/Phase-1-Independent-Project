@@ -48,10 +48,15 @@ Inspired by aloice ogana
 This Number to Roman Numeral Converter is protected by copyright. All rights reserved.
 
 # Licensing:
-Personal Use: You are permitted to use this converter for personal, non-commercial purposes.
-Educational Use: You may use this converter for educational purposes within academic institutions.
-Modification: Modification of the converter is prohibited without explicit permission.
-Distribution: Distribution of the converter or its modified versions is prohibited without prior authorization.
-Commercial Use: Commercial use of the converter requires a separate licensing agreement.
-For licensing inquiries or permissions, please contact aloiceadriot@gmail.com
+1.Personal Use: You are permitted to use this converter for personal, non-commercial purposes.
+
+2.Educational Use: You may use this converter for educational purposes within academic institutions.
+
+3.Modification: Modification of the converter is prohibited without explicit permission.
+
+4.Distribution: Distribution of the converter or its modified versions is prohibited without prior authorization.
+
+5.Commercial Use: Commercial use of the converter requires a separate licensing agreement.
+
+6.For licensing inquiries or permissions, please contact aloiceadriot@gmail.com
 
