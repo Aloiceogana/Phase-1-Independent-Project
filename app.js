@@ -2,6 +2,7 @@ let input = document.getElementById("input");
 let button = document.getElementById("submit");
 let errorMessage = document.getElementById("error");
 let output = document.getElementById("output");
+const url = 'https://api.funtranslations.com/translate/roman-numerals.json'
 
 
 const romanObject = {
@@ -29,6 +30,11 @@ button.addEventListener("click", () => {
 
 function inputToRoman(num) {
   let number = parseInt(num);
+
+  fetch(url)
+  .then(data => data.json())
+
+
 
   if (num.trim().length == 0) {
     errorMessage.innerHTML = "Invalid Input";
